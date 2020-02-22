@@ -3,8 +3,10 @@ python-OpenModelica-STK program that parses any number of satellites' Two-Line E
 
 Tested and verified at Algonquin Radio Observatory with &lt;0.01 degree divergence from the site's own software.
 
-![Original programming structure plan](https://github.com/naufalrafi/Tracking/blob/master/block%20diagram.png)  
-**Original programming structure plan**
+<p align="center">
+  ![Original programming structure plan](https://github.com/naufalrafi/Tracking/blob/master/block%20diagram.png)  
+  **Original programming structure plan**
 
-![Final main.py program chain](https://github.com/naufalrafi/Tracking/blob/master/finalfinal.png)  
-**Final main.py program chain**
+  ![Final main.py program chain](https://github.com/naufalrafi/Tracking/blob/master/finalfinal.png)  
+  **Final main.py program chain**
+</p>
