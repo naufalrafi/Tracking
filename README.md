@@ -5,8 +5,8 @@ Tested and verified at Algonquin Radio Observatory with &lt;0.01 degree divergen
 
 <p align="center">
   <img src="https://github.com/naufalrafi/Tracking/blob/master/block%20diagram.png"><br>
-  **Original programming structure plan**
+  <b>Original programming structure plan</b>
   <br><br>
   <img src="https://github.com/naufalrafi/Tracking/blob/master/finalfinal.png"><br>
-  **Final main.py program chain**
+  <b>Final main.py program chain</b>
 </p>
