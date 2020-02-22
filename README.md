@@ -22,7 +22,7 @@ Tested and verified at Algonquin Radio Observatory with &lt;0.01 degree divergen
 - User needs to update the desired tracking start time and length of desired tracking period
 - Reducing the time step-size is not recommended as it would increase computation time without giving signigicant change in accuracy
 <br><br>
-- Run mainFULL.py
+- **Run mainFULL.py**
 
 <br><br>
 ASIDE: If user has access to AGI's STK software, they can visualize the orbit of the satellite they wish to track and they can check for any inaccuracies caused by outdated TLE files 
