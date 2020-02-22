@@ -1,0 +1,10 @@
+stk.v.4.3
+BEGIN Ephemeris
+NumberOfEphemerisPoints 25
+ScenarioEpoch           2018-03-15 07:44:53.2726081344299
+InterpolationMethod     Lagrange
+DistanceUnit		Kilometers
+CentralBody             Earth
+CoordinateSystem        Fixed
+CoordinateSystemEpoch	2018-03-15 07:44:53.2726081344299
+EphemerisTimePosVel

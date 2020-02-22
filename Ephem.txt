@@ -1,0 +1,9 @@
+stk.v.4.3
+NumberOfEphemerisPoints 4
+ScenarioEpoch           25 May 2002 13:21:15.0000
+InterpolationMethod     Lagrange
+InterpolationOrder      5
+CentralBody             Earth
+CoordinateSystem        TrueOfEpoch
+CoordinateSystemEpoch	25 May 2002 13:22:0.0000
+EphemerisTimePosVel
