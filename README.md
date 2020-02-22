@@ -21,7 +21,6 @@ Tested and verified at Algonquin Radio Observatory with &lt;0.01 degree divergen
 - User needs to update the Two-Line Element file (NORADTLE.txt) to match the satellites they wish to track
 - User needs to update the desired tracking start time and length of desired tracking period
 - Reducing the time step-size is not recommended as it would increase computation time without giving signigicant change in accuracy
-<br><br>
 - **Run mainFULL.py**
 
 <br><br>
