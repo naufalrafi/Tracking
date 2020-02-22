@@ -8,7 +8,7 @@ from OMPython import ModelicaSystem
 banner()
 
 Station = ReadStationFile("STNFIL.txt")
-Satellites = ReadNoradTLE("PRN18.txt")
+Satellites = ReadNoradTLE("NORADTLE.txt")
 
 dd = doy(2019, 5, 1)
 Hour = 12  #change before tracking
