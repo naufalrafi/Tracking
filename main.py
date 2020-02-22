@@ -34,12 +34,6 @@ print("Station and Satellites successfully loaded");
 #Using OpenModelica models
 mod1 = ModelicaSystem("SatTrak.mo", "SatTrak.FINAL", ["Modelica"])
 
-#for i in range(int(len(Satellites))):
-        #mod1.setParameters(M0=Satellites[i].meanan, N0=Satellites[i].meanmo, eccn=Satellites[i].eccn, Ndot2=Satellites[i].ndot, Nddot6=Satellites[i].nddot6, raan0=Satellites[i].raan, argper0=Satellites[i].argper, incl=Satellites[i].incl, tstart=0.1, stn_long=Station.stnlong, stn_lat=Station.stnlat, stn_elev=Station.stnalt)
-        #mod1.setSimulationOptions(startTime=0., stopTime=3600., stepSize=30.)
-        #mod1.simulate()
-        #vv.append(mod1.getSolutions('Azimuth')) #e.g. to find radius
-
 mod1.setParameters(M0=Satellites[0].meanan, N0=Satellites[0].meanmo, eccn=Satellites[0].eccn, Ndot2=Satellites[0].ndot, 
                    Nddot6=Satellites[0].nddot6, raan0=Satellites[0].raan, argper0=Satellites[0].argper, incl=Satellites[0].incl, 
                    tstart=((Satellites[0].refepoch - timestart)*3600*24), stn_long=Station.stnlong, 
