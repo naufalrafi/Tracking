@@ -21,4 +21,12 @@ Tested and verified at Algonquin Radio Observatory with &lt;0.01 degree divergen
 - User needs to update the Two-Line Element file (NORADTLE.txt) to match the satellites they wish to track
 - Run mainFULL.py
 
+
 ASIDE: If user has access to AGI's STK software, they can visualize the orbit of the satellite they wish to track and they can check for any inaccuracies caused by outdated TLE files 
+
+
+<p align="center">
+  <img src="https://github.com/naufalrafi/Tracking/blob/master/STNFILspec.PNG"><br>
+  <b>Format for ground station description file</b>
+</p>
+
